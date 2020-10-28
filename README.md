@@ -65,8 +65,10 @@ __텍스트__
 
 # 7.2 이미지
 ```
-![강사cafe] (링크URL "설명문구")
+![강사cafe](링크URL "설명문구")
 ```
+![레이아웃](https://github.com/HYKim8/E_HR_MARKDOWN/blob/main/L07.PNG "설명문구")
+
 
 
 
