@@ -26,5 +26,33 @@ E_HR_MARKDOWN
 
 -아이템1  
 +아이템2  
- -1단계 하위 아이템  
- *2단계 하위 아이템  
+  -1단계 하위 아이템  
+  *2단계 하위 아이템  
+  
+ 1.아이템1  
+ 2.아이템2  
+    2.1.아이템  
+    2.1.1. 아이템  
+    
+    
+# 5. 코드블록
+  ``` Spring
+  public static void main(String []args){
+      System.out.println("Hello, world!");
+  }
+  ```
+
+# 6. 가로선
+
+---
+***
+---
+
+# 7. 하이퍼 링크
+```
+[강사cafe] (링크URL "설명문구")
+```
+[강사cafe](https://cafe.naver.com/kndjang "강의 cafe")
+
+
+
